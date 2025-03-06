@@ -1,36 +1,20 @@
-### 저는요👩🏻‍💻
-**한양대학교 컴퓨터소프트웨어학부에 재학 중입니다.**  
+### Hi, I'm Hyojeong!
+**💻 I major in..**  
+Computer Science at Hanyang University, Seoul, South Korea  
 
-<br>
-<br>
+**💼 Work Experience**  
+`Internship` Backend Developer 2024.12.20~
 
-<h3>✏ Language</h3>
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-</p>
-<br>
-<h3>📚 Tech Stack</h3>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"></a>&nbsp
-</p>
-<br>
-<h3>📞 Contact</h3>
+**👩🏻‍💻 Tech Stacks I'm Currently Using**  
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>  
 
-
-<a href="https://leehyogum.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-F05A28?style=flat-square&logo=Tistory&logoColor=white"/>
-</a>
+**🫧 Feel Free To Contact Me**  
 <a href="mailto:dlgywjd2580@hanyang.ac.kr" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/hyoeojng/" target="_blank">  
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-
-<br>
-<br>
+  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHyo-Jeong)](https://github.com/anuraghazra/github-readme-stats)
 
