@@ -5,7 +5,7 @@ Computer Science at Hanyang University, Seoul, South Korea
 **💼 Work Experience**  
 
 Internship at `Airs Medical`, Backend Developer, 2024.12.24-2025.6.20  
-Internship at `Hyundai Motors Group`, Android Developer, 2025.6.30-2025.8.22  
+Internship at `Hyundai Motor Company`, Android Developer, 2025.6.30-2025.8.22  
 Intership at `Hyundai Mobis`, Android Developer, 2026.02.02-
 
 **🫧 Feel Free To Contact Me**  
