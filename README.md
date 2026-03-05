@@ -15,7 +15,3 @@ Intership at `Hyundai Mobis`, Android Developer, 2026.02.02-
 </a>
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHyo-Jeong)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-
